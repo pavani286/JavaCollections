@@ -4,7 +4,6 @@ public class RandomString
 	{
 		System.out.println("hello.....");
 		System.out.println("hello world .....");
-         
 	}
 
 }
